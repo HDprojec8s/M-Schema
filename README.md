@@ -74,6 +74,15 @@ Please read and understand the database schema carefully, and generate an execut
 # response = call_llm(prompt)
 ```
 
+
+## Ecosystem
+
+Thanks to our amazing community, `M-Schema` is also available in other languages:
+
+- **[MSchema-JS](https://github.com/ofx-labs/MSchema-JS)**: A JavaScript/TypeScript implementation of m-schema, maintained by [OceanBase](https://github.com/ofx-labs).
+
+
+
 ## Contact us:
 
 If you are interested in our research or products, please feel free to contact us.
